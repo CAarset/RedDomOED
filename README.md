@@ -5,3 +5,5 @@ This is the Github code corresponding to the paper
 Its aim is to provide a high-efficiency, general code for A-optimal experimental design for Bayesian linear inverse problems.
 
 More examples and documentation to come!
+
+![Image](ExampleGraphic.png)
